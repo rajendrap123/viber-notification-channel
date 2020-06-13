@@ -13,12 +13,6 @@ Please see [this repo](https://github.com/laravel-notification-channels/channels
 
 This package makes it easy to send notifications using [Viber](link to service) with Laravel 5.5+, 6.x and 7.x
 
-**Note:** Replace ```Viber``` ```Viber``` ```Rajendra Poudel``` ```rajendrap123``` ```https://rajendrapoudel.com.np``` ```me@rajendrapoudel.com.np``` ```viber``` ```This is Viber Notification Channel Package``` ```:style_ci_id``` ```:sensio_labs_id``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md), [composer.json](composer.json) and other files, then delete this line.
-**Tip:** Use "Find in Path/Files" in your code editor to find these keywords within the package directory and replace all occurences with your specified term.
-
-This is where your description should go. Add a little code example so build can understand real quick how the package can be used. Try and limit it to a paragraph or two.
-
-
 
 ## Contents
 
